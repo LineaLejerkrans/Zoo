@@ -1,0 +1,8 @@
+Format: namn / vakentid / matningstid / ide
+Björn / 9-20 / 12 / vinter 
+Latmask / 12-14 / 13 / sommar
+Uggla / 21-05 / 21 / - 
+Lejon / 6-18 / 14 / -
+Säl / 10-18 / 14 / - 
+Varg / 11-20 / 12 / -
+Älg / 7-19 / 10 / -
